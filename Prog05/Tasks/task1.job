@@ -1,0 +1,5 @@
+rotate -L bottles.tga
+crop Renoir.tga 100 50 80 120
+flipV Renoir.tga
+flipV clown.tga
+rotate -LLrL clown.tga

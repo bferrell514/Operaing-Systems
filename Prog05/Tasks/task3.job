@@ -1,0 +1,26 @@
+rotate -L bottles.tga
+crop Renoir.tga 100 50 80 120
+flipV Renoir.tga
+rotate -LLL clown.tga
+gray clown.tga
+crop Renoir.tga 100 50 80 120
+rotate -L doesNotExist.tga
+crop Renoir.tga 100 50 800 120
+rotate -invalid bottles.tga
+flipV clown.tga
+rotate -L clown.tga
+rotate -LL clown.tga
+flipH clown.tga
+flipH bottles.tga
+flipV Seurat.tga
+flipV peppers.tga
+crop claypots.tga 30 50 130 90
+rotate -LL Tyler.tga
+gray cells.tga
+flipH cells.tga
+rotate -LL Seurat.tga
+gray Seurat.tga
+end
+rotate -r Tyler.tga
+gray Renoir.tga
+gray Tyler.tga 

@@ -1,0 +1,22 @@
+Baheem Ferrell
+    1  mkdir A01
+    2  cd A01
+    3  pwd
+    4  pwd > path.txt
+    5  pr path.txt
+    6  more path.txt
+    7  clear
+    8  ls
+    9  clear
+   10  rm path.txt
+   11  ls -la
+   12  touch new_text.txt
+   13  ls -la
+   14  rm new_text.txt 
+   15  ls -la
+   16  nano new_text.txt
+   17  hisotry
+   18  history
+   19  pwd
+   20  ls
+   21  history > history.txt
